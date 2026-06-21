@@ -1,3 +1,4 @@
-<img width="1920" height="1080" alt="L1RocketBanner" src="https://github.com/user-attachments/assets/a0d502bf-791e-49e6-9dcd-106cd03ba5d8" />
+<img width="1908" height="462" alt="L1RocketBanner" src="https://github.com/user-attachments/assets/eca20367-c849-4f34-8650-95d6968fd445" />
+
 # IcarusRocket
 L1 Rocket Simulations
